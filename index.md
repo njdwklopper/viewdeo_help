@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Viewdeo
 
 Viewdeo has gone through some massive changes recently. I was busy with a whole new App, but a change from Reddit force me to publish this version unfinished. But all the main functionality is still working.
