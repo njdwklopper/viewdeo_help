@@ -11,7 +11,7 @@ Both the Full and Free version of Viewdeo now have the exact same features, wher
 
 ## Downloading
 
-Files are now Downloaded (With Permissions from you) to your ***Download** Folder under ```viewdeo```
+Files are now Downloaded (With Permissions from you) to your **Download** Folder under ```viewdeo```
 
 ## Sharing
 
