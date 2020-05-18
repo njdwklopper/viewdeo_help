@@ -2,52 +2,32 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Viewdeo
 
-[Link to another page](./another-page.html).
+Viewdeo has gone through some massive changes recently. I was busy with a whole new App, but a change from Reddit force me to publish this version unfinished. But all the main functionality is still working.
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[Post Viewdeo Issues Here](https://github.com/njdwklopper/viewdeo_help/issues).
 
-# Header 1
+## Free and Full version have Same features
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Both Full and free have the same features, free now has Ads.
 
-## Header 2
+## Sharing
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Viewdeo now downloads in the background, and you share from the Notification.
+The Instant share won't work with this, because imagine a whole bunch of share sheets popping up athe same time.
+Will add Instant Share back settings.
 
-### Header 3
+## Settings
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Only Dark and Light Mode Setting for now.
+All other Settings will be added back in the Future.
+https://github.com/njdwklopper/viewdeo_help/issues
+# Help
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1. Use the app by sharing links to Viewdeo, from other Apps like Reddit, Instagarm, Giphy, Gfycat.
+2. Copy links and Paste them on the History Page.
 
 ###### Header 6
 
