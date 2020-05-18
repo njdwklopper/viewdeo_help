@@ -1,6 +1,6 @@
 # Viewdeo
 
-Viewdeo has gone through some massive changes recently. I was busy with development of a whole new Viewdeo App, with awesome new features. All of a sudden a change from Reddit forced me to publish this version which is still a bit unfinished. But all the main functionality that makes Viewdeo, well Viewdeo is still working.
+Viewdeo has gone through some massive changes recently. I was busy with development of a whole new Viewdeo App, with awesome new features. All of a sudden a change from Reddit forced me to publish this version which is still a bit unfinished. But all the main functionality that makes Viewdeo, Viewdeo is still working.
 
 
 [Post Viewdeo Issues Here](https://github.com/njdwklopper/viewdeo_help/issues).
