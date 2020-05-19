@@ -2,6 +2,7 @@
 
 Viewdeo has gone through some massive changes recently. I was busy with development of a whole new Viewdeo App, with awesome new features. All of a sudden a change from Reddit forced me to publish this version which is still a bit unfinished. But all the main functionality that makes Viewdeo, Viewdeo is still working.
 
+#[Remove Advertising, get Full version](https://play.google.com/store/apps/details?id=com.tegnatiek.veddit.full).
 
 [Post Viewdeo Issues Here](https://www.reddit.com/r/ViewdeoApp/new/).
 
