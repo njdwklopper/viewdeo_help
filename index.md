@@ -3,7 +3,7 @@
 Viewdeo has gone through some massive changes recently. I was busy with development of a whole new Viewdeo App, with awesome new features. All of a sudden a change from Reddit forced me to publish this version which is still a bit unfinished. But all the main functionality that makes Viewdeo, Viewdeo is still working.
 
 
-[Post Viewdeo Issues Here](https://github.com/njdwklopper/viewdeo_help/issues).
+[Post Viewdeo Issues Here](https://www.reddit.com/r/ViewdeoApp/new/).
 
 ## Free and Full version have Same features
 
