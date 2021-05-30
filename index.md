@@ -6,6 +6,7 @@ Viewdeo has gone through some massive changes recently. I was busy with developm
 
 1. Use the app by sharing links to Viewdeo from other Apps like Reddit, Instagarm, Giphy and Gfycat.
 2. Copy links and Paste them on the History Page.
+3. Long press files to delete or share
 
 [Post Viewdeo Issues Here](https://www.reddit.com/r/ViewdeoApp/new/).
 
