@@ -2,6 +2,8 @@
 
 Viewdeo has gone through some massive changes recently. I was busy with development of a whole new Viewdeo App, with awesome new features. All of a sudden a change from Reddit forced me to publish this version which is still a bit unfinished. But all the main functionality that makes Viewdeo, Viewdeo is still working.
 
+## [Privacy Policy](https://tegnatiek.github.io/viewdeo_help/Policy.html)
+        
 # How to use
 
 1. Use the app by sharing links to Viewdeo from other Apps like Reddit, Instagarm, Giphy and Gfycat.
