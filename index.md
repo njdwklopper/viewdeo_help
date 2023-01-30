@@ -20,7 +20,7 @@ CAREFUL: Clearing Viewdeo Cache will delete it's current videos, to save them se
 
 ## Downloading
 
-Files are Downloaded (With Permissions from you) to your **Download** Folder under ```viewdeo```
+Files are Downloaded to the Viewdeo App now, you won't see the files in your Photos/Files Apps anymore
 
 ## Sharing
 
