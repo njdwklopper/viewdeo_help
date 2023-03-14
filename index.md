@@ -41,22 +41,4 @@ Tapping on an item opens it on the Web, Long Pressing a Link copies it to clipbo
 History items can be Re-Downloaded or Deleted from history with the Icons on the right.
 
 A Pasted link on the Bottom can be downloaded or saved for later.  
-  
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-
-This is what peak double chin looks like.
-Thanks for the death threats and not so friendly banter kid 👍🏻
-
-
-![taher_omar](https://user-images.githubusercontent.com/20532948/215975002-1206a293-07c7-43b2-9d8a-1bf12722cb34.jpg)
 
