@@ -16,7 +16,7 @@ CAREFUL: Clearing Viewdeo Cache will delete it's current videos, to save them se
 2. Copy links and Paste them on the History Page.
 3. Long press files to delete or share
 
-[Post Viewdeo Issues Here](https://www.reddit.com/r/ViewdeoApp/new/).
+[Post Viewdeo Issues Here](https://github.com/njdwklopper/viewdeo_help/issues/new/choose).
 
 ## Downloading
 
